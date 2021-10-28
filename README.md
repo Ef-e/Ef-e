@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/817338436691558441/897205917811105812/Photopea_11_Eyl_2021_17_51_42_.jpg" align="right" width="300" height="300">
+<img src="https://cdn.discordapp.com/attachments/874240896231677964/898640125909692527/1634319972993.jpg" width="600" height="300">
 
 ### Merhaba !👋
 
@@ -22,12 +22,10 @@
 
 ## ・Sunucular 
 
-## ・𝙴 𝙻 İ 𝙿 𝚂 : https://discord.gg/5d8zFvXWYq
-
-## ・ CodeHelp : https://discord.gg/kESEYRNRSR
+## ・E K L E N İ C E K
 
 ## Tasarım
 
-## ・ Tasarımcımın Discordu : WappZ#6166
+## ・ Tasarımcımın Discordu : WappZ Grîm#6166
 ## ・ Discord Sunucusu : https://discord.gg/6ZSY2RJw
 ## ・ YouTube Kanalı : https://www.youtube.com/c/FlackArtz52/videos
