@@ -26,6 +26,6 @@
 
 ## Tasarım
 
-## ・ Tasarımcımın Discordu : WappZ Grîm#6166
+## ・ Tasarımcımın Discordu : WappZ¹⁸³⁹#4066
 ## ・ Discord Sunucusu : https://discord.gg/6ZSY2RJw
 ## ・ YouTube Kanalı : https://www.youtube.com/c/FlackArtz52/videos
