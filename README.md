@@ -9,8 +9,11 @@
   <td><a href="https://www.youtube.com/channel/UC95k-KiEo96ovHJ4Es2zX2A">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a> 
-
-[![Visitor]
+<tr>
+          
+            </tr>
+            
+            [![Visitor]
             
 <td><a href="https://tiktok.com/@efe.py">
 <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
