@@ -1,6 +1,6 @@
 
 ## QuaVii
- ![](https://img.shields.io/badge/Cyber%20Security-Consultant%20%2F%20Trainer%20%2F%20Engineer%20%2F%20Architect-blue)
+ ![](https://img.shields.io/badge/Discord Bot%20Coder-Amatör Tasarımcı%20%2F%20Trainer%20%2F%20Engineer%20%2F%20Architect-blue)
  <!--
  ![](https://img.shields.io/badge/Twitch-Persembe%20--%20Pazar%20Gunleri%20Saat%2020.00-purple)
  ![](https://img.shields.io/badge/Youtube-Carsamba%20--%20Cumartesi%20Saat%2017.00-red)
