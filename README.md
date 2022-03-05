@@ -1,11 +1,5 @@
 
 ## QuaVii
- ![](https://img.shields.io/badge/Discord Bot%20Coder-Amatör Tasarımcı%20%2F%20Trainer%20%2F%20Engineer%20%2F%20Architect-blue)
- <!--
- ![](https://img.shields.io/badge/Twitch-Persembe%20--%20Pazar%20Gunleri%20Saat%2020.00-purple)
- ![](https://img.shields.io/badge/Youtube-Carsamba%20--%20Cumartesi%20Saat%2017.00-red)
--->
-
 
 <table class="center">
 <tr> 
@@ -15,9 +9,7 @@
   <td><a href="https://www.youtube.com/channel/UC95k-KiEo96ovHJ4Es2zX2A">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a> 
-<td><a href="https://twitch.tv/lunizz">
-<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
-</a>
+
 <td><a href="https://dc.lunizz.com">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a> </tr>
