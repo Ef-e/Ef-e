@@ -13,7 +13,7 @@
           
 </tr>
             
-            [![Visitor]
+            
             
 <td><a href="https://tiktok.com/@efe.py">
 <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
@@ -26,5 +26,5 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Ef-e)](#)
 
-
+[![Visitor]
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=lunizz&theme=blue-green">
