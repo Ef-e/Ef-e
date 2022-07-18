@@ -15,9 +15,6 @@
             
 [Hesapları Takip Etmeyi Unutma]()            
             
-<td><a href="https://tiktok.com/@efe.py">
-<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
-</a>
   </tr>
 </table>
 <a href="">❓</a>
