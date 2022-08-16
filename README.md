@@ -1,7 +1,10 @@
 # Hi, I'm Efe
-> Hiiro movie bot Developer
 
-> Hiiro Bot Entertainment Developer
+# !! Bot(s) Under Construction: ``ReiSs Bot & Hiiro Moderation`!!
+
+> Hiiro Movie bot Developer
+
+> Hiiro Entertainment Bot Developer
 
 >Crack Bot Developer
 
