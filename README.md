@@ -1,7 +1,5 @@
 # Hi, I'm Efe
 
-# Soon... `ReiSs Bot & Hiiro Moderation`
-
 > Hiiro Movie bot Developer
 
 > Hiiro Entertainment Bot Developer
@@ -21,5 +19,5 @@
 
 <img src="https://cdn.discordapp.com/attachments/869608324365164656/1009137728245485598/javascriptlogo.png" width="120" height="120">
 
-
+# Soon... `ReiSs Bot & Hiiro Moderation`
 
