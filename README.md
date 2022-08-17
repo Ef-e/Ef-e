@@ -1,6 +1,6 @@
 # Hi, I'm Efe
 
-# !! Bot(s) Under Construction: `ReiSs Bot & Hiiro Moderation`!!
+# Soon... `ReiSs Bot & Hiiro Moderation`
 
 > Hiiro Movie bot Developer
 
